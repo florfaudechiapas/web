@@ -1,0 +1,98 @@
+body
+{
+background-image:url(img.jpg);
+font -family:Comic Sans MS, Tahoma;
+color:503459;
+margin:50;
+text-align:justify;
+}
+.body
+{
+text-align:center;
+background-image:url(verde.jpg);
+font -family:Perpetua Titling MT, Tahoma;
+color:#001a57;
+margin:0;
+}
+.body2
+{
+background-image:url(an.jpg);
+}
+p
+{
+font-size:1em;
+font-family:Source Sans Pro,Script MT;
+color:#503459;
+text-align:justify;
+}
+.destacado
+{
+font-size:2em;
+font-family:Script MT;
+color:#a44b3f;
+text-align:center;
+}
+table
+{
+margin:0 auto;
+}
+.table
+{
+border:1px solid black; 
+margin:0 auto;
+}
+td
+{
+padding-right:0.5cm;
+text-align:center;
+}
+tr
+{
+padding-top:5cm;
+}
+img
+{
+width:300;
+height:200;
+}
+.img
+{
+text-align:center;
+}
+hr
+{
+width:50%;
+height: 2px;
+color: green;
+background-color:green;
+}
+h3
+{
+color:sienna;
+font-family:Snap ITC,Papyrus;
+}
+h2
+{
+text-align:center;
+color:brown;
+font-family:Snap ITC,Papyrus;
+}
+.h2
+{
+text-align:center;
+color:#7b604c;
+font-family:Curlz MT;
+background-color:white;
+font-size:2em;
+margin:0;
+}
+ol
+{
+type:a;
+}
+li
+{
+font-weight:bold;
+font-family:Lato;
+color:darkslategray
+}
