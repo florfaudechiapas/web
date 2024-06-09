@@ -1,0 +1,121 @@
+body
+{
+background-image:url(img.jpg);
+font -family:Comic Sans MS, Lucida Console, Tahoma;
+color:darkslategray;
+margin:50;
+text-align:justify;
+font-size:1em;
+font-weight:bold;
+}
+.body
+{
+text-align:center;
+background-image:url(verde.jpg);
+font -family:Comic Sans MS, Lucida Console, Tahoma;
+color:#001a57;
+margin:0;
+font-size:1em;
+font-weight:bold;
+}
+.body2
+{
+font -family:Comic Sans MS, Lucida Console, Tahoma;
+background-image:url(an.jpg);
+font-size:1em;
+font-weight:bold;
+}
+p
+{
+font-size:1em;
+font -family:Comic Sans MS, Lucida Console, Tahoma;
+color:lightslategray;
+text-align:justify;
+font-weight:bold;
+}
+.destacado
+{
+font-size:3em;
+font-family:Bradley Hand, Brush Script MT;
+color:olivedrab;
+text-align:center;
+font-weight:bold;
+}
+table
+{
+font -family:Comic Sans MS, Lucida Console, Tahoma;
+margin:0 auto;
+font-size:1em;
+font-weight:bold;
+}
+.table
+{
+font -family:Comic Sans MS, Lucida Console, Tahoma;
+border:1px solid black; 
+margin:0 auto;
+font-size:1em;
+font-weight:bold;
+}
+td
+{
+font -family:Comic Sans MS, Lucida Console, Tahoma;
+padding-right:0.5cm;
+text-align:center;
+font-size:1em;
+font-weight:bold;
+}
+tr
+{
+padding-top:5cm;
+font-size:1em;
+}
+img
+{
+width:300;
+height:200;
+}
+.img
+{
+text-align:center;
+}
+hr
+{
+width:50%;
+height: 2px;
+color: green;
+background-color:green;
+}
+h3
+{
+color:sienna;
+font-family:Times New Roman,Papyrus;
+}
+h2
+{
+text-align:center;
+color:brown;
+font-family:Georgia,Papyrus;
+}
+.h2
+{
+text-align:center;
+color:#7b604c;
+font-family:Courier;
+background-color:white;
+font-size:2em;
+margin:0;
+}
+ol
+{
+type:a;
+}
+li
+{
+font-weight:bold;
+font-family:Lato;
+color:darkslategray
+}
+.tr
+{
+text-align:center;
+}
