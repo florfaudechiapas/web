@@ -35,17 +35,20 @@ text-align:center;
 }
 table
 {
+font-size:1em;
 font -family:Comic Sans MS, Lucida Console, Tahoma;
 margin:0 auto;
 }
 .table
 {
+font-size:1em;
 font -family:Comic Sans MS, Lucida Console, Tahoma;
 border:1px solid black; 
 margin:0 auto;
 }
 td
 {
+font-size:1em;
 font -family:Comic Sans MS, Lucida Console, Tahoma;
 padding-right:0.5cm;
 text-align:center;
@@ -77,6 +80,7 @@ font-family:Times New Roman,Papyrus;
 }
 h2
 {
+font-size:2em;
 text-align:center;
 color:brown;
 font-family:Georgia,Papyrus;
