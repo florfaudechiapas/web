@@ -47,8 +47,6 @@ font -family:Comic Sans MS, Lucida Console, Tahoma;
 margin:0 auto;
 font-size:1em;
 font-weight:bold;
-width:80px;
-height:80px;
 }
 .table
 {
@@ -57,8 +55,6 @@ border:1px solid black;
 margin:0 auto;
 font-size:1em;
 font-weight:bold;
-width:80px;
-height:80px;
 }
 td
 {
@@ -67,7 +63,6 @@ padding-right:0.5cm;
 text-align:center;
 font-size:1em;
 font-weight:bold;
-width:30%;
 }
 tr
 {
